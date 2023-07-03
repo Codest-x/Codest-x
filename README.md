@@ -57,3 +57,20 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+<p align="center">
+  <h1 align="center">Github Stats</h1>
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codest-x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+	/>
+</p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Codest-x&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+	/>
+</p>
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codest-x&theme=dark&hide_border=true"
+	/>
+</p>
+
