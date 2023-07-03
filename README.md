@@ -1,5 +1,6 @@
-<img align="center" src="https://i.ibb.co/ZxQG90K/Whats-App-Image-2023-06-30-at-10-04-40-PM.jpg" alt="profile_img" width="400" height="100%" />
-
+<p align="center" width="400">
+  <img align="center" src="https://i.ibb.co/ZxQG90K/Whats-App-Image-2023-06-30-at-10-04-40-PM.jpg" alt="profile_img" width="400" height="100%" />
+</p>
 
 # About Me:
 
